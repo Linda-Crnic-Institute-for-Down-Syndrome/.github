@@ -38,6 +38,9 @@ The repositories in this organization represent work from the Data Sciences Prog
 - **INCLUDE Data Coordinating Center (DCC)**  
   https://includedcc.org/
 
+- **INCLUDE Experimental Models of Down Syndrome portal**  
+  https://experimentalmodels.includedcc.org/
+
 ## Reproducibility and Use
 
 Where possible, repositories include:
