@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/CRNIC_INSTITUTE_logo.png" alt="Crnic Institute Logo" width="250"/>
+  <img src="assets/CRNIC_INSTITUTE_logo.png" alt="Crnic Institute Logo" width="1000"/>
 </p>
 
 # Linda Crnic Institute Data Sciences Program
