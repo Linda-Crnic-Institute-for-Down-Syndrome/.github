@@ -33,7 +33,7 @@ The repositories in this organization represent work from the Data Sciences Prog
   https://medschool.cuanschutz.edu/linda-crnic-institute
 
 - **Human Trisome Project (HTP)**  
-  https://www.trisomeproject.org/
+  https://www.trisome.org/
 
 - **INCLUDE Data Coordinating Center (DCC)**  
   https://includedcc.org/
